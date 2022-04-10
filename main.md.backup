@@ -1,8 +1,0 @@
-# Git Session
-## What is Git?
-Git is a `version control` system, meaning it can track down changes and save them as snapshots or `commits`
-## What is GitHub?
-Online Interface to preview what happened on your git `repository` and some nice features
-## What is the difference?
-- Git is the program or the system that tracks and saves
-- GitHub is a website and an online host for your `git` repository
